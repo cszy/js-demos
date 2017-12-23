@@ -1,0 +1,65 @@
+#content {
+  font-family: 'Quicksand', sans-serif;
+  margin: 0 auto;
+  width:520px;
+}
+
+#price-results {
+  color: white;
+  font-size: 75px;
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  margin-bottom: 0;
+}
+
+h3 {
+  text-align: center !important;
+  margin-top: 0;
+}
+
+#tag {
+  font-weight: 200;
+  text-align: left;
+}
+
+body {
+  background: linear-gradient(to right, #F7971E, #FFD200);
+  color: white;
+  text-align:center;
+  margin:0;
+  padding:0;
+  margin: 0;
+}
+
+#input {
+  width: 520px;
+    height: 40px;
+    border-radius: 10px;
+    box-shadow: none;
+    border: 0px;
+    font-size: 20px;
+    padding: 8px;
+    font-weight: 300;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0px;
+  background-color: orange;
+  margin-top: 1px;
+  margin-right: -10px;
+}
+
+li {
+  cursor: pointer;
+  height: 30px;
+  padding-top:10px;
+}
+
+li:hover{
+  background-color: #ED8F03;
+  font-weight: bold;
+}
