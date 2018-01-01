@@ -1,5 +1,5 @@
 function Blockchain(name) {
-    console.log(name + ': constuctor ran');
+    console.log(name + ': constructor ran');
     this.name = name;
 }
 
